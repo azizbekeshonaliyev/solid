@@ -1,0 +1,19 @@
+{
+    "name": "bek96/solid",
+    "description": "Solid training",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bek96\\Solid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azizbek Eshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
