@@ -1,4 +1,5 @@
 <?php
+// Single Responsibility Principe
 
 class Student{
     public $id;
